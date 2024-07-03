@@ -1,0 +1,63 @@
+[25-Jun-2024 13:51:53 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:51:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:52:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'axoncbfs_whatsmatic.sms' doesn't exist in /home/axoncbfs/whatsmatic.axontech.pk/add_data2.php:21
+Stack trace:
+#0 /home/axoncbfs/whatsmatic.axontech.pk/add_data2.php(21): mysqli_query()
+#1 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/add_data2.php on line 21
+[25-Jun-2024 13:52:18 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/view_sent.php on line 6
+[25-Jun-2024 13:52:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/view_sent.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/view_sent.php on line 6
+[25-Jun-2024 13:52:18 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:52:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:54:49 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:54:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:54:53 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:54:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:55:04 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 13:55:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/view_pending.php on line 5
+[25-Jun-2024 14:02:19 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 5
+[25-Jun-2024 14:02:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 5
+[25-Jun-2024 14:02:23 UTC] PHP Warning:  require_once(Config.php): Failed to open stream: No such file or directory in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 5
+[25-Jun-2024 14:02:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 5
+[25-Jun-2024 14:04:58 UTC] PHP Warning:  Undefined array key "id" in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 41
+[25-Jun-2024 14:04:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php:42
+Stack trace:
+#0 /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 42
+[25-Jun-2024 14:05:15 UTC] PHP Warning:  Undefined array key "id" in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 41
+[25-Jun-2024 14:05:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php:42
+Stack trace:
+#0 /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 42
+[29-Jun-2024 16:02:22 UTC] PHP Warning:  Undefined array key "id" in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 41
+[29-Jun-2024 16:02:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php:42
+Stack trace:
+#0 /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/axoncbfs/whatsmatic.axontech.pk/edit_data.php on line 42
